@@ -1,0 +1,45 @@
+commit b4d2c5b7c6470e23ff3d2e68e339b49cbc95d8bc
+Merge: 2864de5 ada9465
+Author: UEMxMDE <david777.nazaryan@gmail.com>
+Date:   Thu Sep 4 22:02:43 2025 -0700
+
+    Resolved the merging conflicts
+
+commit ada9465d0a1b208ee4cd2512de48c03734011799
+Author: UEMxMDE <david777.nazaryan@gmail.com>
+Date:   Thu Sep 4 22:01:09 2025 -0700
+
+    Added the favorite game div to the index-fix branch
+
+commit 2864de594f132904a4f5c239df8ff753e81d8071
+Author: UEMxMDE <david777.nazaryan@gmail.com>
+Date:   Thu Sep 4 21:59:09 2025 -0700
+
+    Added the favorite food div to the main branch
+
+commit 45ab532b7d06a11983739adadfbec80584c6ed98
+Author: UEMxMDE <70921784+UEMxMDE@users.noreply.github.com>
+Date:   Thu Sep 4 21:54:24 2025 -0700
+
+    Create README.md
+
+commit d2d51de4844676f8e12307eb5708ee4fca93d064
+Merge: 1d2bfc0 f12b028
+Author: UEMxMDE <70921784+UEMxMDE@users.noreply.github.com>
+Date:   Thu Sep 4 21:38:34 2025 -0700
+
+    Merge pull request #1 from UEMxMDE/info-fill
+    
+    Filled in the two blankes in index.html
+
+commit f12b028b991f6809a4a95fe6d9e94005242cf977
+Author: UEMxMDE <david777.nazaryan@gmail.com>
+Date:   Thu Sep 4 21:25:33 2025 -0700
+
+    Filled in the two blankes in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
